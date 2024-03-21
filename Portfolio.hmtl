@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>Big man's Portfolio</title>
+       <link href="Portfolio.css" rel="stylesheet" type="text/css">
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" 
+        rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
+
+     
+       <meta name="description" content="Wsg guys this is my portfolio>
+       <meta name="keywords" content="portfolio">
+       <meta name="author" content="many faces">
+       <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+   </head>
+   <body>
+    <section class="wheeze">
+       <div class="bol">
+        <img class="comrad" src="rah/Redstac.png" alt="an interesting picture of my alter ego">  
+        <a href="#Aboutme">
+        <button class="buton">About me</button> 
+        </a>
+        
+        <h1 class="bludski">Hello my name is: <span class="inside"> <span class="code">RaY</span><span class="this">mU</span><span class="today">Nd?</span> </span> <span class="december"><br>Contact: 09956225016<br> 
+          Adress: 192-A Gorordo Avenue, Cebu City</span> </h1>
+        <p class="orderly"> Matty Ampalayo, a student at <span class="lab">Saint Theresa's College of Cebu.</span><br> I'm 14 and Filipino, aspring to be a Badminton player and I'm a video game enthusiast. I love dogs and hate sauce.  -Nice to meet you!</p> 
+        <p class="order">I'm also a new student here at Saint Theresa's and so far I'm liking it here. Although its definitely quite different from what I'm used to, I'll try my best. </p> 
+       </div>
+    </section>
+
+    <section class="kortopi">
+      <h1 class="san" id="Aboutme">About Me</h1>
+      <pre class="house"> <span class="theory">Hello, Internet!</span>  
+        This is my first website where I fully dedicate myself and so that others can get an Idea of who I am as a person. 
+        For starters I’m Filipino and I live in Cebu, the Queen City of the Southern Philippines. I have a great family composed of my mom, 
+        dad, my sister and a lot of cousins, aunts, and uncles. Other important people in my life such as my friends also give a big impact on my 
+        life. Friends I made in this new school and friends I made long ago, thing about them is they will always support you through thick and thin
+        that's why I always give my 100% and respect them just like I do with my family. I also go to school in Saint Theresa’s College, previously I graduated from a 
+        school worth mentioning named Blessed Trinity Achievers’ Academy where I met many of my friends who I still keep in contact with today. 
+        My main hobbies are playing just about anything and exercising, this can range from video games to physical activities like badminton.
+        Although I must admit I don’t really know what to do with my life at the moment and my plans for the future aren’t clear, 
+        so one of the only things I’m focusing on in life currently is on my health and school. Two other important things other than family. <span class="dodge">
+        Oh yea!1 </span> and one thing most definitely important about me is my unique hate of different sauces, mayo, soy sauce, ketchup you name it 
+        and I’m pretty sure I might hate it. I don’t know how I got this hate for sauce but I just really don't like it.
+      </pre>
+    </section>
+       
+</body>
+</html>
